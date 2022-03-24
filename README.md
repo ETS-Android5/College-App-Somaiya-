@@ -2,6 +2,17 @@
 
 A basic Flutter application.
 
+# Description:
+This project acts as the template for a basic college website for students to store their information and have access to all the activities happening within the college
+
+# Requirements
+
+Flutter
+Dart
+VS Code
+Android studio
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
